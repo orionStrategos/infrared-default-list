@@ -26,6 +26,14 @@
       "url": "https://berachain.com"
     },
     {
+      "description": "PoL with Berapaw",
+      "id": "berachain",
+      "imageDark": "berapaw.png",
+      "imageLight": "berapaw.png",
+      "name": "Berapaw",
+      "url": "https://berapaw.com"
+    },
+    {
       "description": "Swap a variety of tokens effortlessly on our decentralized platform. Provide liquidity to pools and earn BGT rewards.",
       "id": "bex",
       "imageDark": "bex.svg",
